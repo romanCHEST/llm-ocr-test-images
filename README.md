@@ -6,7 +6,7 @@ This repository contains a lightweight dataset of images and document scans desi
 
 - `images/` – Sample images and scanned forms  
 - `README.md` – This file  
-- `LICENSE` – Usage license (default: CC BY 4.0 unless specified otherwise)
+- `LICENSE` – Usage license (Apache 2.0)
 
 ## 🧪 Use Case
 
@@ -25,4 +25,4 @@ Text extraction accuracy can be measured using:
 
 ## 📄 License
 
-This dataset is released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. See the `LICENSE` file for more details.
+This dataset is released under the **Apache 2.0** license. See the `LICENSE` file for more details.
